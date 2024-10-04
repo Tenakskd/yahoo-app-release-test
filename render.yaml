@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: promo-yahoo
+    name: promo-yahoo-life
     env: python
     region: Oregon
     plan: free
