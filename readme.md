@@ -25,14 +25,14 @@ cookieにyuki=Trueを設定すると認証されます。
 <br>
 ## デプロイ
 (slim-2-by-siawaseok.gitがデプロイされます)<br>
-<a href="https://render.com/deploy?repo=https://github.com/Tenakskd/yahoo-app-release">
+<a href="https://render.com/deploy?repo=https://github.com/Tenakskd/yahoo-app-release-test">
  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render"><br>
 </a>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/tenakskd/yahoo-app-release.git">
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/tenakskd/yahoo-app-release-test.git">
   <img src="https://vercel.com/button" alt="Deployto Vercel">
 </a>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=github.com/siawaseok3/slim-2-by-siawaseok&branch=main&name=slim-2-by-siawaseok)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&builder=buildpack&repository=github.com/tenakskd/yahoo-app-release-test&branch=main&name=slim-2-by-siawaseok)
 <br>
 
 <h2>偽造ページの変え方</h2>
