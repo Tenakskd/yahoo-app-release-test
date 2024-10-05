@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: promo-yahoo-life-of-status-fun
+    name: ilovegithubs
     env: python
     region: Oregon
     plan: free
